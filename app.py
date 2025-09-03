@@ -4,8 +4,8 @@ import tempfile
 import os
 
 # ====== НАСТРОЙКИ ЛОГИНА ======
-USERNAME = "admin"
-PASSWORD = "12345"
+USERNAME = "misha"
+PASSWORD = "130206"
 
 # ====== ФУНКЦИЯ ПРОВЕРКИ АВТОРИЗАЦИИ ======
 def check_login():
